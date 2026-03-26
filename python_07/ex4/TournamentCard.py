@@ -1,7 +1,7 @@
 from typing import Dict, Any
 from ex0.Card import Card
 from ex2.Combatable import Combatable
-from .Rankable import Rankable
+from ex4.Rankable import Rankable
 
 
 class TournamentCard(Card, Combatable, Rankable):

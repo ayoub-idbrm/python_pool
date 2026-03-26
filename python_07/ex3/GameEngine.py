@@ -1,5 +1,5 @@
-from .CardFactory import CardFactory
-from .GameStrategy import GameStrategy
+from ex3.CardFactory import CardFactory
+from ex3.GameStrategy import GameStrategy
 
 
 class GameEngine:

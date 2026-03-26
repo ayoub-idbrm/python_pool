@@ -1,7 +1,7 @@
 from ex0.CreatureCard import CreatureCard
-from .SpellCard import SpellCard, EffectType
-from .ArtifactCard import ArtifactCard
-from .Deck import Deck
+from ex1.SpellCard import SpellCard, EffectType
+from ex1.ArtifactCard import ArtifactCard
+from ex1.Deck import Deck
 
 
 def main():

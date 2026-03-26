@@ -1,5 +1,5 @@
 from typing import Dict, List, Optional
-from .TournamentCard import TournamentCard
+from ex4.TournamentCard import TournamentCard
 
 
 class TournamentPlatform:

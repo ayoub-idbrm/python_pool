@@ -1,4 +1,4 @@
-from .CardFactory import CardFactory
+from ex3.CardFactory import CardFactory
 from ex0 import Card, CreatureCard
 from ex1 import SpellCard, ArtifactCard
 

@@ -1,5 +1,5 @@
 # ex2/main.py
-from .EliteCard import EliteCard
+from ex2.EliteCard import EliteCard
 
 
 def main():
